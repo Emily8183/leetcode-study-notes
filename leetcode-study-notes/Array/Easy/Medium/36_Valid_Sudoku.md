@@ -8,12 +8,13 @@ Example:
 
 seen = set()
 
-# 1) Check if f"{num}" is not in the set:
+1. Check if f"{num}" is not in the set:
 
-if f"{num}" not in seen:  
- # If f"{num}" is not in the set `seen`, perform some action
+if f"{num}" not in seen:
 
-# 2) Alternatively:
+# If f"{num}" is not in the set `seen`, perform some action
+
+2. Alternatively:
 
 if f"{num} in row {i}" in seen: # Perform some action
 Additionally, f"..." is a formatted string (f-string) in Python, similar to Template Literals in JavaScript.
