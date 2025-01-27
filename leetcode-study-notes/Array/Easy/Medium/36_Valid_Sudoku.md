@@ -4,15 +4,11 @@ In Java, if a duplicate element is added to a HashSet, it will return false.
 
 In Python, the set.add() method does not return True or False, but you can achieve the same effect by using the **in** operator.
 
-Example:
+**Example:**
 
 seen = set()
 
-1. Check if f"{num}" is not in the set:
-
-if f"{num}" not in seen:
-
-# If f"{num}" is not in the set `seen`, perform some action
+1. Check if f"{num}" is not in the set
 
 2. Alternatively:
 
