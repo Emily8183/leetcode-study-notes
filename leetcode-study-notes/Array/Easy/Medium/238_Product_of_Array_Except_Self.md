@@ -1,10 +1,8 @@
-📌Optimization:
-First loop: Calculate the product of all elements to the left of each element.
+📌Optimization:  
+First loop: Calculate the product of all elements to the left of each element.  
 Second loop: Calculate the product of all elements to the right and directly update the result array.
 
-Example:
-
-                          [1,    2,    3,    4]
+Example: [1, 2, 3, 4]
 
 res 1 1 2 6 (First Loop)
 res 24 12 8 6 (Second Loop)
