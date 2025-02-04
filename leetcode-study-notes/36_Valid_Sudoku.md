@@ -21,3 +21,10 @@ For Java, as I researched, you can use String.format() as an alternative for for
 | ---------: | :------------------- |
 | CommonMark | 100%                 |
 | GFM        | 100% w/ `remark-gfm` |
+
+~~strikethrough~~
+
+* [ ] task list
+* [ ] checked item
+
+https://example.com
