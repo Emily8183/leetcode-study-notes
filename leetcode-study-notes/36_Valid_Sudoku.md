@@ -1,4 +1,4 @@
-📌 Comparison between Java and Python:
+**Comparison between Java and Python:**
 
 In Java, if a duplicate element is added to a HashSet, it will return false.
 
@@ -16,15 +16,3 @@ if f"{num} in row {i}" in seen: # Perform some action
 Additionally, f"..." is a formatted string (f-string) in Python, similar to Template Literals in JavaScript.
 
 For Java, as I researched, you can use String.format() as an alternative for formatting.
-
-| Feature    | Support              |
-| ---------: | :------------------- |
-| CommonMark | 100%                 |
-| GFM        | 100% w/ `remark-gfm` |
-
-~~strikethrough~~
-
-* [ ] task list
-* [ ] checked item
-
-https://example.com

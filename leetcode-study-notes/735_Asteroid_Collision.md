@@ -1,4 +1,4 @@
-📌 Tips:
+**Tips:**
 
 1. Again, for stack-related problems, I would pay extra attention to all the scenarios(conditions) described in the problem before starting to code;
 2. Here's the key:

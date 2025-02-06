@@ -1,4 +1,4 @@
-📌Optimization:
+**Optimization:**
 
 First loop: Calculate the product of all elements to the left of each element.  
 Second loop: Calculate the product of all elements to the right and directly update the result array.
@@ -12,7 +12,7 @@ postfix 24 24 12 4 1
 
 ---
 
-📌Solution:  
+**Solution:**
 If the current asteroid is positive, there's no need to compare it with the top of the stack.
 
 - If the stack's top is positive, they're moving in the same direction (no collision).
@@ -22,7 +22,7 @@ Comparisons are **ONLY** required when the current asteroid is negative.
 
 ---
 
-📌Tips:
+**Tips:**
 
 1. Pay attention to whether the loop iterates over indexes or the elements themselves.
 

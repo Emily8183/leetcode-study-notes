@@ -1,10 +1,10 @@
-📌 Tips:
+**Tips:**
 
 1. Set is better than map in this case.
 
 2. Avoid timeouts:
 
-Comparison of two approaches:
+**Comparison of two approaches:**
 
 2.1) If you start by searching for the **maximum** value and then iteratively check for n-1, it will lead to redundant calculations.
 
