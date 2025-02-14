@@ -1,0 +1,7 @@
+{
+  "categories": [
+    { "id": "array", "name": "Array" },
+    { "id": "linked-list", "name": "Linked List" },
+    { "id": "binary-tree", "name": "Binary Tree" }
+  ]
+}
