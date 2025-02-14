@@ -1,0 +1,10 @@
+{
+  "comparison-array": [
+    { "id": "1" },
+    { "problem1": "Array1" },
+    { "problem2": "2" },
+    { "problem3": "Array3" },
+    { "problem4": "Array4" },
+    { "notes": "Arrnotes" }
+  ]
+}
