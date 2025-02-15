@@ -3,7 +3,7 @@ name: Update Problems JSON
 on:
   push:
     branches:
-      - fetch_markdown
+      - main
     paths:
       - "leetcode-study-notes/**/README.md"
 
