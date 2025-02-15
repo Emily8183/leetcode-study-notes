@@ -1,18 +1,18 @@
 [
   {
     "id": "1",
-    "problem1": "Problem1",
-    "problem2": "Problem2",
-    "problem3": "Problem3",
-    "problem4": "Problem4",
+    "problem1": "36_Valid_Sudoku",
+    "problem2": "74_Search_a_2D_Matrix",
+    "problem3": "167_Two_Sum_II_Input_Array_Is_Sorted",
+    "problem4": "567_Permutation_in_String",
     "notes": "Arrnotes"
   },
   {
     "id": "2",
-    "problem1": "Array1",
-    "problem2": "2",
-    "problem3": "Array3",
-    "problem4": "Array4",
+    "problem1": "169_majority_element",
+    "problem2": "219_Contains_Duplicate_II",
+    "problem3": "424_Longest_Repeating_Character_Replacement",
+    "problem4": "567_Permutation_in_String",
     "notes": "Arrnotes"
   }
 ]
