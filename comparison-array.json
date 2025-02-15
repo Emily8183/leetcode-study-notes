@@ -1,18 +1,18 @@
 [
   {
     "id": "1",
-    "problem1": "36_Valid_Sudoku",
-    "problem2": "74_Search_a_2D_Matrix",
-    "problem3": "167_Two_Sum_II_Input_Array_Is_Sorted",
-    "problem4": "567_Permutation_in_String",
+    "problem1": "36 Valid Sudoku",
+    "problem2": "74 Search a 2D Matrix",
+    "problem3": "167 Two Sum II Input Array Is Sorted",
+    "problem4": "567 Permutation in String",
     "notes": "Arrnotes"
   },
   {
     "id": "2",
-    "problem1": "169_majority_element",
-    "problem2": "219_Contains_Duplicate_II",
-    "problem3": "424_Longest_Repeating_Character_Replacement",
-    "problem4": "567_Permutation_in_String",
+    "problem1": "169 majority element",
+    "problem2": "219 Contains Duplicate II",
+    "problem3": "424 Longest Repeating Character Replacement",
+    "problem4": "567 Permutation in String",
     "notes": "Arrnotes"
   }
 ]
