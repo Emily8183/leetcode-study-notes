@@ -2,6 +2,15 @@
   "comparison-array": [
     {
       "id": "1",
+      "problem1": "Problem1",
+      "problem2": "Problem2",
+      "problem3": "Problem3",
+      "problem4": "Problem4",
+      "notes": "Arrnotes"
+    },
+
+    {
+      "id": "2",
       "problem1": "Array1",
       "problem2": "2",
       "problem3": "Array3",
