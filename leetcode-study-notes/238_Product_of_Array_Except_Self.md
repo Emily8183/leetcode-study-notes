@@ -1,7 +1,7 @@
 ***Two Key Steps***
 
-1/ Perform two traversals: one forward and one backward.
-2/ Use a variable cur to temporarily store the running product.
+1/ Perform two traversals: one forward and one backward.   
+2/ Use a variable cur to temporarily store the running product.   
 
 First loop: Calculate the product of all elements to the left of each element.  
 
